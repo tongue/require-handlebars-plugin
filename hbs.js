@@ -12,7 +12,7 @@
 define: false, process: false, window: false */
 define([
 //>>excludeStart('excludeHbs', pragmas.excludeHbs)
-  'handlebars', 'underscore', 'json2'
+  'hbs/handlebars', 'underscore', 'json2'
 //>>excludeEnd('excludeHbs')
 ], function (
 //>>excludeStart('excludeHbs', pragmas.excludeHbs)
